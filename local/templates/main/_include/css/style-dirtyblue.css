@@ -18,7 +18,11 @@ a:hover { color:#444444; }
 /*  Header Stylings Home and Inner                                            */
 /* ========================================================================== */
 
+<<<<<<< HEAD
 .bg1 {  background: #41616c url(../../images/slide-3-background.jpg) center top no-repeat; }
+=======
+.bg1 {  background: #41616c url(images/slide-3-background.jpg) center top no-repeat; }
+>>>>>>> task_1_create_site_template
 
 /* ========================================================================== */
 /* Generic Text Headings Styles & Breadcrumbs                                 */
@@ -38,7 +42,11 @@ h5 {
 /* ========================================================================== */
 
 .big-footer {
+<<<<<<< HEAD
   background:#41616c url(../../images/slide-3-background.jpg) top center no-repeat;
+=======
+  background:#41616c url(images/slide-3-background.jpg) top center no-repeat;
+>>>>>>> task_1_create_site_template
   min-height:200px;
   min-width:960px;
   font-size:12px;
@@ -67,7 +75,11 @@ form input:hover, form textarea:hover, form select:focus {  border-color: #447d9
 
 
 ul.pricing-col .top {
+<<<<<<< HEAD
   background:#f1f1f1 url(../../images/slide-3-background.jpg) top repeat-x;
+=======
+  background:#f1f1f1 url(images/slide-3-background.jpg) top repeat-x;
+>>>>>>> task_1_create_site_template
   color:#ffffff;
   border-bottom:1px solid #dbdbdb;
   font-size:17px;
@@ -77,7 +89,11 @@ ul.pricing-col .top {
 }
 
 ul.highlight .top {
+<<<<<<< HEAD
   background:#f1f1f1 url(../../images/slide-3-background.jpg) top repeat-x;
+=======
+  background:#f1f1f1 url(images/slide-3-background.jpg) top repeat-x;
+>>>>>>> task_1_create_site_template
   color:#ffffff;
   border-bottom:1px solid #dbdbdb;
   font-size:17px;
@@ -88,7 +104,11 @@ ul.highlight .top {
 
 
 ul.pricing-col-small .top {
+<<<<<<< HEAD
   background:#f1f1f1 url(../../images/slide-3-background.jpg) top repeat-x;
+=======
+  background:#f1f1f1 url(images/slide-3-background.jpg) top repeat-x;
+>>>>>>> task_1_create_site_template
   color:#ffffff;
   border-bottom:1px solid #dbdbdb;
   font-size:17px;
@@ -97,7 +117,11 @@ ul.pricing-col-small .top {
   padding-bottom:10px;
 }
 ul.highlight-small .top {
+<<<<<<< HEAD
   background:#f1f1f1 url(../../images/slide-3-background.jpg) top repeat-x;
+=======
+  background:#f1f1f1 url(images/slide-3-background.jpg) top repeat-x;
+>>>>>>> task_1_create_site_template
   color:#ffffff;
   border-bottom:1px solid #dbdbdb;
   font-size:17px;
@@ -116,7 +140,11 @@ ul.pagination li.active a, ul.pagination li.active a:hover {
 /* Accordion used on the faq page */
 /* accordion header */
 .accordion-faq span {
+<<<<<<< HEAD
 	background:#ffffff url(../../images/faq-open-left.jpg) top left no-repeat;
+=======
+	background:#ffffff url(images/faq-open-left.jpg) top left no-repeat;
+>>>>>>> task_1_create_site_template
 	margin:0px;;
     margin-bottom:5px;
 	padding-top:8px;

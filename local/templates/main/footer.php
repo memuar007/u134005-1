@@ -1,23 +1,13 @@
 <?php
 /**
  * Created by PhpStorm.
-<<<<<<< HEAD
- * User: Илющка
- * Date: 24.05.2018
- * Time: 5:49
-=======
  * User: Alexandr
  * Date: 19.05.2018
  * Time: 16:41
->>>>>>> task_1_create_site_template
  */
 ?>
 <?if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die();?>
 </div>
-<<<<<<< HEAD
-</div>
-=======
->>>>>>> task_1_create_site_template
 <!-- end main content -->
 
 <!-- start big footer -->
@@ -89,11 +79,7 @@
 <div class="small-footer">
     <div class="containit">
 
-<<<<<<< HEAD
-        <div class="copy">Copyright &copy; <?echo date (Y);?> </div>
-=======
-        <div class="copy">Copyright &copy; <?echo date (Y);?></div>
->>>>>>> task_1_create_site_template
+        <div class="copy">Copyright &copy;  <?echo date (Y);?></div>
         <div class="social">
 
             <ul>

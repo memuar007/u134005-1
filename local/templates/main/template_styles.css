@@ -765,11 +765,7 @@ h5 {
     left:0px;
 }
 .big-footer {
-<<<<<<< HEAD
     background:#175586 url(images/slide-1-background.jpg) top center no-repeat;
-=======
-    background:#175586 url(../images/slide-1-background.jpg) top center no-repeat;
->>>>>>> task_1_create_site_template
     min-height:200px;
     min-width:960px;
     font-size:12px;
@@ -1196,20 +1192,12 @@ ul.pricing-col-small li {
     border-bottom:1px solid #dbdbdb;
 }
 ul.pricing-col-small li.yes {
-<<<<<<< HEAD
     background:url(images/icons/icon-check.png) no-repeat;
-=======
-    background:url(/images/icons/icon-check.png) no-repeat;
->>>>>>> task_1_create_site_template
     background-position:20px 5px;
     padding-left:50px;
 }
 ul.pricing-col-small li.no {
-<<<<<<< HEAD
     background:url(images/icons/icon-no.png) no-repeat;
-=======
-    background:url(/images/icons/icon-no.png) no-repeat;
->>>>>>> task_1_create_site_template
     background-position:20px 5px;
     padding-left:50px;
 }

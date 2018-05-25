@@ -70,11 +70,7 @@
 }
 .nivo-prevNav {
 	left:-29px;
-<<<<<<< HEAD
     background:url(../../images/buttons/nivo-prev.png) no-repeat;
-=======
-    background:url(images/buttons/nivo-prev.png) no-repeat;
->>>>>>> task_1_create_site_template
     width:55px;
     height:55px;
     overflow:hidden;
@@ -82,11 +78,7 @@
 }
 .nivo-nextNav {
 	right:-35px;
-<<<<<<< HEAD
     background:url(../../images/buttons/nivo-next.png) no-repeat;
-=======
-    background:url(images/buttons/nivo-next.png) no-repeat;
->>>>>>> task_1_create_site_template
     width:55px;
     height:55px;
     overflow:hidden;
@@ -105,11 +97,7 @@
 	position:relative;
 	z-index:99;
 	cursor:pointer;
-<<<<<<< HEAD
     background:url(../../images/buttons/nivo-off.png) no-repeat;
-=======
-    background:url(images/buttons/nivo-off.png) no-repeat;
->>>>>>> task_1_create_site_template
     width:16px;
     height:16px;
     overflow:hidden;
@@ -118,11 +106,7 @@
 }
 .nivo-controlNav a.active {
 	font-weight:bold;
-<<<<<<< HEAD
     background:url(../../images/buttons/nivo-on.png) no-repeat;
-=======
-    background:url(images/buttons/nivo-on.png) no-repeat;
->>>>>>> task_1_create_site_template
     width:16px;
     height:16px;
     overflow:hidden;

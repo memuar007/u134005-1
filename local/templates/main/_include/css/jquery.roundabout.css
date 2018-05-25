@@ -1,11 +1,7 @@
 .slide-roundabout { text-align:center;  }
 .slide-roundabout h1 { padding-top:25px; }
 
-<<<<<<< HEAD
 .roundaboutshadow{  background:url(../../images/roundabout-bg-shadow.png) bottom center no-repeat;  }
-=======
-.roundaboutshadow{  background:url(images/roundabout-bg-shadow.png) bottom center no-repeat;  }
->>>>>>> task_1_create_site_template
 
 .roundabout-holder {
 				list-style: none;
@@ -14,11 +10,7 @@
 				margin: 1em auto;
 			}
 .roundabout-moveable-item {
-<<<<<<< HEAD
                 background: #ffffff url(../../images/roundabout-item-bg.gif) bottom repeat-x;
-=======
-                background: #ffffff url(images/roundabout-item-bg.gif) bottom repeat-x;
->>>>>>> task_1_create_site_template
                 padding:7px;
                 -webkit-border-radius: 4px;
                 -moz-border-radius: 4px;
@@ -47,11 +39,7 @@
 			}
 
 /* styles for alternate roundabout header */
-<<<<<<< HEAD
 .roundabout-desclinkbox { background:url(../../images/roundabout-desclink-bg.png) no-repeat; height:40px; overflow:hidden;}
-=======
-.roundabout-desclinkbox { background:url(../images/roundabout-desclink-bg.png) no-repeat; height:40px; overflow:hidden;}
->>>>>>> task_1_create_site_template
 
 .roundabout-desc { width:550px; }
 .roundabout-arrows { width:30px;}
@@ -63,11 +51,7 @@
                 margin: 0 auto;
 }
 .header-alt .roundabout-moveable-item {
-<<<<<<< HEAD
                 background: #ffffff url(../../images/roundabout-item-bg.gif) bottom repeat-x;
-=======
-                background: #ffffff url(images/roundabout-item-bg.gif) bottom repeat-x;
->>>>>>> task_1_create_site_template
                 padding:7px;
                 -webkit-border-radius: 4px;
                 -moz-border-radius: 4px;

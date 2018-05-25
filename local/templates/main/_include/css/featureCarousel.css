@@ -1,11 +1,7 @@
 /********************
  * FEATURE CAROUSEL *
  ********************/
-<<<<<<< HEAD
-.featureCarouselshadow {  background:url(../../imges/roundabout-bg-shadow.png) bottom center no-repeat; }
-=======
-.featureCarouselshadow {  background:url(images/roundabout-bg-shadow.png) bottom center no-repeat; }
->>>>>>> task_1_create_site_template
+.featureCarouselshadow {  background:url(../../images/roundabout-bg-shadow.png) bottom center no-repeat; }
 #featureCarousel {
     height: 320px;
     width:960px;
@@ -21,11 +17,7 @@
     border:0px solid white;
     padding:6px;
     cursor:pointer;
-<<<<<<< HEAD
-    background: #ffffff url(../../imges/roundabout-item-bg.gif) repeat-x bottom;
-=======
-    background: #ffffff url(images/roundabout-item-bg.gif) repeat-x bottom;
->>>>>>> task_1_create_site_template
+    background: #ffffff url(../../images/roundabout-item-bg.gif) repeat-x bottom;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;

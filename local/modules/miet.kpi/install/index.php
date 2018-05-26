@@ -25,7 +25,6 @@ Class miet_kpi extends CModule {
     function InstallEvents()
     { /* Пример $em = \Bitrix\Main\EventManager::getInstance(); $em->registerEventHandler('sale', 'OnBasketAdd', self::MODULE_ID, '\CompanyNamespace\Promotions\Connector', 'OnBasketAdd'); $em->registerEventHandler('sale', 'OnBasketUpdate', self::MODULE_ID, '\CompanyNamespace\Promotions\Connector',
 
-20
 'OnBasketUpdate'); */
     return true;
     }

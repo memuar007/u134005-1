@@ -1,12 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Alexandr
- * Date: 19.05.2018
- * Time: 16:41
- */
+
 ?>
 <?if(!defined("B_PROLOG_INCLUDED")||B_PROLOG_INCLUDED!==true)die();?>
+</div>
 </div>
 <!-- end main content -->
 
@@ -79,7 +75,7 @@
 <div class="small-footer">
     <div class="containit">
 
-        <div class="copy">Copyright &copy;  <?echo date (Y);?></div>
+        <div class="copy">Copyright  &copy;  <?echo date (Y);?> </div>
         <div class="social">
 
             <ul>

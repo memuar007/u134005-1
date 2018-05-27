@@ -6,4 +6,4 @@
  * Time: 13:28
  */
 ?>
-<div class="logo"><a href="index.html"><img src=<?=SITE_TEMPLATE_PATH;?>"/images/logo.png" alt="Novux" ></a></div>
+<div class="logo"><a href="index.html"><img src="<?=SITE_TEMPLATE_PATH;?>/images/logo.png" alt="Novux"/></a></div>
